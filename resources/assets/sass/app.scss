@@ -1,2 +1,10 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import 'common/colors';
+@import 'common/common';
+@import 'common/fonts';
+@import 'common/mixins';
+
+@import 'partials/header';
+@import 'partials/footer';
+
+
 
