@@ -1,0 +1,2 @@
+[24-May-2016 17:12:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/andresza/public_html/andres/public/index.php on line 50
+[24-May-2016 17:14:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/andresza/public_html/andres/public/index.php on line 50

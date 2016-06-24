@@ -1,0 +1,1 @@
+[24-May-2016 16:35:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/andresza/public_html/andres/artisan on line 31
