@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return phpversion();//view('welcome');
+    return view('welcome');
 });
