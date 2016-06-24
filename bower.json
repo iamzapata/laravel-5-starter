@@ -1,0 +1,29 @@
+{
+  "name": "azapata",
+  "description": "",
+  "main": "",
+  "authors": [
+    "andfelzapata <andreszapatacano@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "azapata.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone.marionette": "^2.4.7",
+    "handlebars": "^4.0.5",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "sweetalert": "^1.1.3",
+    "magicsuggest": "^2.1.4",
+    "normalize-css": "^4.1.1",
+    "typeahead.js": "^0.11.1",
+    "fullcalendar": "^2.8.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37"
+  }
+}
